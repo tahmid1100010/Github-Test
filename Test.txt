@@ -1,0 +1,2 @@
+This is the first text file of this repository.
+It's only for getting used to with git.
